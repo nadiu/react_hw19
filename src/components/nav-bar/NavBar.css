@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(rgba(16, 19, 16, 0.89), #353644) no-repeat center center fixed;
+}
+.navigation{
+    background-color: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+li{
+    list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: #f3dc09;
+}
+a:hover{
+    background: rgba(0,0,0,0);
+	color: #3a7999;
+}
+

@@ -1,0 +1,15 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin-left: 20px;
+    margin-right: 20px;
+    grid-gap: 15px;
+
+}
+
+.img{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}

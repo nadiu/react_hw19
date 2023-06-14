@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    color: rgb(255, 252, 247);
+    padding-top: 20px;
+}
+
+.main_img {
+    margin: auto;
+    display: block;
+    width: 35%;
+}
+
