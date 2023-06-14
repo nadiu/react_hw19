@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_hw19/static/css/main.759b555d.css",
+    "main.js": "/react_hw19/static/js/main.74e70d72.js",
+    "static/media/img5.jpg": "/react_hw19/static/media/img5.24e46ced9326a6e24efb.jpg",
+    "static/media/img2.jpg": "/react_hw19/static/media/img2.f3dffb263a0032cf8d8c.jpg",
+    "static/media/img4.jpg": "/react_hw19/static/media/img4.24c8a07bde7d899a3574.jpg",
+    "static/media/download_logo.png": "/react_hw19/static/media/download_logo.8ec69b469e32c1afc79f.png",
+    "static/media/img3.jpg": "/react_hw19/static/media/img3.18e93df8ba916298a856.jpg",
+    "static/media/img6.jpg": "/react_hw19/static/media/img6.971964ac82e803303d89.jpg",
+    "static/media/react_icon.png": "/react_hw19/static/media/react_icon.7bbdb5769394630cb5eb.png",
+    "static/media/comments_logo.png": "/react_hw19/static/media/comments_logo.8c9091e411fde10ead98.png",
+    "static/media/arrows_logo.png": "/react_hw19/static/media/arrows_logo.0b28ac1ba6c2d0d30f8a.png",
+    "static/media/heart_logo.png": "/react_hw19/static/media/heart_logo.eb625203016989e7159c.png",
+    "static/media/img1.jpg": "/react_hw19/static/media/img1.aecfad8f52f4b161a536.jpg",
+    "index.html": "/react_hw19/index.html",
+    "main.759b555d.css.map": "/react_hw19/static/css/main.759b555d.css.map",
+    "main.74e70d72.js.map": "/react_hw19/static/js/main.74e70d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759b555d.css",
+    "static/js/main.74e70d72.js"
+  ]
+}
